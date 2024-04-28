@@ -8,8 +8,8 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Adjust the paths to where you've saved your files
-salmon_path = 'SalmonandSeaTroutNets1952-2022.csv'
-temperature_path = 'ohc_levitus_climdash_seasonal.csv'
+salmon_path = 'data/SalmonandSeaTroutNets1952-2022.csv'
+temperature_path = 'data/ohc_levitus_climdash_seasonal.csv'
 
 salmon_data = pd.read_csv(salmon_path)
 temperature_data = pd.read_csv(temperature_path)
