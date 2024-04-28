@@ -1,8 +1,8 @@
-# Project Name
+# CAP770: Final Project
 
 ## Overview
 
-This project is aimed at [brief description of the project].
+This project conducts a comprehensive analysis to explore the correlation between changes in ocean temperature and the annual fluctuations in Scottish salmon catches over the period from 1955 to 2022. By utilizing historical climate and fisheries data, we aim to understand how marine environmental changes have impacted salmon populations and fishing yields, providing insights that could inform future fisheries management and conservation efforts.
 
 ## Installation
 
@@ -38,11 +38,15 @@ This project is aimed at [brief description of the project].
 
 5. **Running the Project:**
 
-    [Provide instructions on how to run the project, e.g., executing a script or starting a server.]
+    1. Open your command line interface: Ensure that your virtual environment is activated.
+    2. Execute the Main script. Run the following command: 
 
     ```bash
     python your_script.py
     ```
+    Replace 'you_script.py' with the actual name of your python script. 
+    3. Follow On-Screen Instructions
+    4. View Results 
 
 6. **Deactivate the Virtual Environment:**
 
